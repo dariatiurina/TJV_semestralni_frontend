@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+#mainDivCreate {
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+#mainDivCreate input {
+    margin-bottom: 10px;
+    display: table-cell;
+    width: 90%;
+}
+
+#mainDivCreate textarea{
+    margin-bottom: 10px;
+    display: table-cell;
+    width: 90%;
+    height: 100px;
+}
+
+#mainDivCreate h2{
+    text-decoration: underline 1px;
+    text-underline-offset: 4px;
+}
+
+#input_div {
+    width: 20%;
+}
+
+#mainDivCreate button{
+    width: 90%;
+}
